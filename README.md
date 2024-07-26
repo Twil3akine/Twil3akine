@@ -5,12 +5,10 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-# - 💛 I Love Neovim !!!
-## - 🧑‍💻 I'm a programmers who are less than ordinary people.
-## - 🌱 I’m currently learning Rails, Flutter !!
-## - 📫 How to reach me: [Twitter - @Twil3akine](https://twitter.com/Twil3akine)
+# Hi!! Do you like Neovim ??? .....  I Love Neovim !!!
+## 🧑‍💻 I'm a programmers who are less than ordinary people.
+## 🌱 I’m currently learning Rails, Flutter !!
+## 📫 How to reach me: [Twitter - @Twil3akine](https://twitter.com/Twil3akine)
 <br>
 
 
