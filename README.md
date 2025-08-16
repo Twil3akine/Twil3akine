@@ -1,7 +1,5 @@
-# Hi, there👍
-
-## I Love Rust🦀
-## My Homepage -> https://twil3akine.pages.dev
+# I Love Rust🦀
+## https://twil3akine.pages.dev
 
 <img
   alt="github stats" 
