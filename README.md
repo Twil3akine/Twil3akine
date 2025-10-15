@@ -1,5 +1,5 @@
 # I Love Rust🦀
-## https://twil3akine.pages.dev
+## https://twil3akine.org
 
 <img
   alt="github stats" 
